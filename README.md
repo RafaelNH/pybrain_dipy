@@ -22,7 +22,8 @@ More information on Dipy and Fury installation can be found in the following [pa
 The workshop will start with a 30 min warm-up at 9:00 am UTC on both days. During this warm-up, we can resolve technical difficulties you might be experiencing. The actual workshop will start at 9:30. Lunch break is from 12 to 1, and we will continue until 3:30.
 
 Below you can find the topics discussed on the two days:
-** 23/11/2020 **
+
+### 23/11/2020 
 - Workshop introduction
 - Diffusion MRI data as 4D images and simple Apparent Diffusion Coefficient calculation
 - Diffusion Tensor Imaging (DTI)
@@ -33,7 +34,7 @@ Below you can find the topics discussed on the two days:
 - High angular resolution diffusion imaging (DSI, Q-ball, CSA)
 - Open questions and discussion
 
-** 24/11/2020 **
+### 24/11/2020
 - Diffusion MRI pre-processing
 - Diffusion MRI signal representation techniques (DTI, DKI, MAP-MRI)
 - Diffusion MRI microstructural models (WMTI, SMT, fw-DTI)
