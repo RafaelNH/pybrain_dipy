@@ -4,7 +4,7 @@ In this two-days workshop, you will learn how to use different diffusion MRI (dM
 
 # Preparations 
 
-To participate in the workshop, you will need to install Dipy and Fury. To install the dependencies of these two packages, I suggested that you install [anaconda] (https://www.anaconda.com/products/individual) (in the anaconda website you will find the installers for different operative systems).
+To participate in the workshop, you will need to install Dipy and Fury. To install the dependencies of these two packages, I suggested that you install [anaconda](https://www.anaconda.com/products/individual) (in the anaconda website you will find the installers for different operative systems).
 
 After installing anaconda, open an anaconda prompt terminal and type:
 
