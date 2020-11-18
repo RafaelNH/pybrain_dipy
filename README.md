@@ -28,7 +28,9 @@ Below you can find the topics discussed on the two days:
 - Diffusion MRI data as 4D images and simple Apparent Diffusion Coefficient calculation
 - Diffusion Tensor Imaging (DTI)
 - Introduction to DTI tractography
+
 (Lunch)
+
 - Exploration of different reconstruction techniques for tractography
 - Probabilistic vs Deterministic Tractography
 - High angular resolution diffusion imaging (DSI, Q-ball, CSA)
@@ -38,7 +40,9 @@ Below you can find the topics discussed on the two days:
 - Diffusion MRI pre-processing
 - Diffusion MRI signal representation techniques (DTI, DKI, MAP-MRI)
 - Diffusion MRI microstructural models (WMTI, SMT, fw-DTI)
+
 (Lunch)
+
 - Combining advanced dMRI metrics and tractography
 - Overview of other tools available in Dipy 
 - Discussion of the future directions on Dipy development
