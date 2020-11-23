@@ -14,6 +14,10 @@ For some Dipy visualization tools you also need to have Fury installed. For this
 
 pip install fury
 
+If this does not work try
+
+conda install -c conda-forge fury
+
 More information on Dipy and Fury installation can be found in the following [page](https://dipy.org/documentation/1.3.0./installation/#installing-a-release)).
 
 
